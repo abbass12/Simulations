@@ -1,0 +1,1141 @@
+﻿Log file open, 01/16/20 07:51:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TestingOutPuzzle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.152102
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=abbass141 -epicuserid=d2d4a04f58574c308c1c905c578ed553 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.16-15.51.55:212][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.16-15.51.55:213][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.01.16-15.51.55:213][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.01.16-15.51.55:213][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.01.16-15.51.55:213][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.01.16-15.51.55:213][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:214][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.16-15.51.55:214][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.16-15.51.55:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:215][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.16-15.51.55:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.16-15.51.55:219][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.16-15.51.55:220][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.16-15.51.55:220][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.16-15.51.55:220][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.16-15.51.55:226][  0]LogHAL: Display: Platform has ~ 16 GB [17019551744 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.16-15.51.55:226][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.16-15.51.55:226][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.16-15.51.55:226][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.16-15.51.55:227][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.16-15.51.55:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.16-15.51.55:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Config/Windows/Engine.ini]
+[2020.01.16-15.51.55:229][  0]LogInit: Computer: DESKTOP-EP6M0ST
+[2020.01.16-15.51.55:229][  0]LogInit: User: Abbass
+[2020.01.16-15.51.55:229][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.16-15.51.55:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.16-15.51.55:229][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.16-15.51.55:229][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.16-15.51.55:229][  0]LogMemory: Process Physical Memory: 106.03 MB used, 106.03 MB peak
+[2020.01.16-15.51.55:229][  0]LogMemory: Process Virtual Memory: 101.58 MB used, 101.58 MB peak
+[2020.01.16-15.51.55:229][  0]LogMemory: Physical Memory: 11375.77 MB used,  4855.34 MB free, 16231.11 MB total
+[2020.01.16-15.51.55:229][  0]LogMemory: Virtual Memory: 5159.21 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.01.16-15.51.55:232][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.16-15.51.55:253][  0]LogInit: Using OS detected language (en-US).
+[2020.01.16-15.51.55:254][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.16-15.51.55:255][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.16-15.51.55:515][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.16-15.51.55:567][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.16-15.51.55:567][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.16-15.51.55:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.16-15.51.55:790][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.16-15.51.55:790][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.16-15.51.55:790][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.16-15.51.55:896][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.01.16-15.51.55:896][  0]LogD3D11RHI:       2987/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.16-15.51.55:919][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.16-15.51.55:919][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.16-15.51.55:924][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.16-15.51.55:924][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.16-15.51.55:924][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.16-15.51.56:005][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.16-15.51.56:006][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.16-15.51.56:006][  0]LogWindows: EnumDisplayDevices:
+[2020.01.16-15.51.56:006][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.16-15.51.56:008][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.16-15.51.56:008][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.16-15.51.56:008][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.16-15.51.56:009][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.16-15.51.56:009][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.01.16-15.51.56:009][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2020.01.16-15.51.56:009][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2020.01.16-15.51.56:009][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.01.16-15.51.56:105][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.16-15.51.56:105][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.16-15.51.56:132][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.16-15.51.56:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.16-15.51.56:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.16-15.51.56:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.16-15.51.56:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.16-15.51.56:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.16-15.51.56:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.16-15.51.56:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.16-15.51.56:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.16-15.51.56:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.16-15.51.56:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.16-15.51.56:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.16-15.51.56:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.16-15.51.56:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.16-15.51.56:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.16-15.51.56:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.16-15.51.56:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.16-15.51.56:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.16-15.51.56:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.16-15.51.56:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.16-15.51.56:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.16-15.51.56:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.16-15.51.56:914][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.16-15.51.56:918][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.16-15.51.56:951][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Intermediate/Shaders/WorkingDirectory/13668/).
+[2020.01.16-15.51.56:951][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Abbass/AppData/Local/Temp/UnrealShaderWorkingDir/86FDA2904102807563D7C0B694E9CCE5/'.
+[2020.01.16-15.51.56:952][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.16-15.51.56:952][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.16-15.51.56:952][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.16-15.51.58:089][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.16-15.51.58:188][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Abbass/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.16-15.51.58:189][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Abbass/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.16-15.51.58:189][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.16-15.51.58:189][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.16-15.51.58:189][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.16-15.51.58:189][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.16-15.51.58:206][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.16-15.51.58:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.16-15.51.58:207][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.16-15.51.58:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Abbass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.16-15.51.58:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.16-15.51.58:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.16-15.51.58:252][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.16-15.51.58:258][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.16-15.51.58:259][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.16-15.51.58:344][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.01.16-15.51.58:772][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.16-15.51.59:027][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.16-15.51.59:027][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.16-15.51.59:027][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.16-15.51.59:027][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.16-15.51.59:027][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.16-15.51.59:045][  0]LogNetVersion: TestingOutPuzzle 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1095957699)
+[2020.01.16-15.52.00:724][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.094000 seconds
+[2020.01.16-15.52.00:746][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.16-15.52.00:746][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.16-15.52.00:746][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.16-15.52.01:597][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.16-15.52.01:601][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.16-15.52.01:705][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.01:705][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.01:707][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.01:709][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.01:711][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.01:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.16-15.52.01:728][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.16-15.52.01:842][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.16-15.52.01:855][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.16-15.52.01:855][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.16-15.52.01:975][  0]LogOcInput: OculusInput pre-init called
+[2020.01.16-15.52.01:984][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.16-15.52.01:984][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.16-15.52.02:122][  0]LogEngine: Initializing Engine...
+[2020.01.16-15.52.02:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.16-15.52.02:126][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.16-15.52.02:690][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.16-15.52.02:700][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-15.52.02:882][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-15.52.02:882][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-15.52.02:883][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-15.52.02:883][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-15.52.02:905][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-15.52.03:241][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.03:251][  0]LogInit: FAudioDevice initialized.
+[2020.01.16-15.52.03:251][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.16-15.52.03:342][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Abbass/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.16-15.52.03:353][  0]LogInit: Texture streaming: Enabled
+[2020.01.16-15.52.03:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.16-15.52.03:375][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.16-15.52.03:378][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.16-15.52.03:495][  0]LogInit: Transaction tracking system initialized
+[2020.01.16-15.52.03:514][  0]BlueprintLog: New page: Editor Load
+[2020.01.16-15.52.03:704][  0]LocalizationService: Localization service is disabled
+[2020.01.16-15.52.03:959][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.16-15.52.03:961][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.16-15.52.04:361][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Content/' took 0.01s
+[2020.01.16-15.52.04:361][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.16-15.52.04:361][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.16-15.52.05:270][  0]SourceControl: Source control is disabled
+[2020.01.16-15.52.05:271][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.16-15.52.05:282][  0]LightingResults: New page: Lighting Build
+[2020.01.16-15.52.05:283][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-15.52.05:283][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.05:283][  0]MapCheck: New page: Map Check
+[2020.01.16-15.52.05:283][  0]LightingResults: New page: Lighting Build
+[2020.01.16-15.52.05:337][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.16-15.52.06:081][  0]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.01.16-15.52.06:095][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.16-15.52.06:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2020.01.16-15.52.06:220][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.16-15.52.06:221][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.42ms to complete.
+[2020.01.16-15.52.06:221][  0]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.950
+[2020.01.16-15.52.06:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.06:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.06:560][  0]LogCollectionManager: Loaded 0 collections in 0.002914 seconds
+[2020.01.16-15.52.06:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Collections/' took 0.00s
+[2020.01.16-15.52.06:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Content/Developers/Abbass/Collections/' took 0.00s
+[2020.01.16-15.52.06:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Content/Collections/' took 0.00s
+[2020.01.16-15.52.06:582][  0]LogContentBrowser: Native class hierarchy populated in 0.0169 seconds. Added 3015 classes and 717 folders.
+[2020.01.16-15.52.06:587][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.16-15.52.06:681][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.16-15.52.06:685][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.01.16-15.52.06:763][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.16-15.52.06:767][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.16-15.52.06:774][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.16-15.52.06:874][  0]LogRenderer: Reallocating scene render targets to support 604x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.16-15.52.06:926][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.16-15.52.07:154][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.01.16-15.52.07:154][  0]LogLoad: (Engine Initialization) Total time: 13.77 seconds
+[2020.01.16-15.52.07:154][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.16-15.52.07:229][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.16-15.52.07:242][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.16-15.52.07:601][  4]LogAssetRegistry: Asset discovery search completed in 9.2587 seconds
+[2020.01.16-15.52.07:606][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.01.16-15.52.16:902][553]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.16-15.52.16:944][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.01.16-15.52.16:944][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-15.52.16:945][553]PIE: New page: PIE session: PuzzleExampleMap (Jan 15, 2020, 11:52:16 PM)
+[2020.01.16-15.52.16:947][553]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.16-15.52.16:950][553]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.16-15.52.16:950][553]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.01.16-15.52.16:989][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038096s)
+[2020.01.16-15.52.16:992][553]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2020.01.16-15.52.16:993][553]LogPlayLevel: PIE: World Init took: (0.003714s)
+[2020.01.16-15.52.16:993][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.042732s)
+[2020.01.16-15.52.17:109][553]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.01.16-15.52.17:118][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-15.52.17:119][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-15.52.17:119][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-15.52.17:120][553]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-15.52.17:120][553]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: Channel Order:
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-15.52.17:133][553]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-15.52.17:209][553]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.17:213][553]LogInit: FAudioDevice initialized.
+[2020.01.16-15.52.17:226][553]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.01.16-15.52.17:230][553]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 60) at 2020.01.16-07.52.17
+[2020.01.16-15.52.17:230][553]LogWorld: Bringing up level for play took: 0.001331
+[2020.01.16-15.52.17:230][553]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.01.16-15.52.17:236][553]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.01.16-15.52.17:250][553]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.95
+[2020.01.16-15.52.17:251][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.01.16-15.52.18:853][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.18:854][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.18:854][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.01.16-15.52.18:854][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.18:855][643]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2020.01.16-15.52.18:855][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.18:855][643]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-15.52.18:856][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.18:872][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-15.52.18:873][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2020.01.16-15.52.18:880][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.18:988][643]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.19:002][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.19:010][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.01.16-15.52.19:041][644]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.16-15.52.27:312][ 90]LogAIModule: Creating AISystem for world Sandpiling
+[2020.01.16-15.52.27:313][ 90]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PuzzleBP/Maps/Sandpiling.Sandpiling
+[2020.01.16-15.52.27:378][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.01.16-15.52.27:380][ 90]Cmd: MAP LOAD FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Content/PuzzleBP/Maps/Sandpiling.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.16-15.52.27:380][ 90]LightingResults: New page: Lighting Build
+[2020.01.16-15.52.27:382][ 90]LoadErrors: New page: Loading map: Sandpiling.umap
+[2020.01.16-15.52.27:382][ 90]LogWorld: UWorld::CleanupWorld for PuzzleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-15.52.27:382][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.27:383][ 90]MapCheck: New page: Map Check
+[2020.01.16-15.52.27:383][ 90]LightingResults: New page: Lighting Build
+[2020.01.16-15.52.27:451][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.01.16-15.52.27:465][ 90]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.16-15.52.27:533][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.16-15.52.27:589][ 90]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.16-15.52.27:590][ 90]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.339ms to complete.
+[2020.01.16-15.52.27:590][ 90]LogFileHelpers: Loading map 'Sandpiling' took 0.211
+[2020.01.16-15.52.29:281][181]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.16-15.52.29:323][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.29:323][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-15.52.29:324][181]PIE: New page: PIE session: Sandpiling (Jan 15, 2020, 11:52:29 PM)
+[2020.01.16-15.52.29:324][181]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-15.52.29:329][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004719s)
+[2020.01.16-15.52.29:332][181]LogAIModule: Creating AISystem for world Sandpiling
+[2020.01.16-15.52.29:332][181]LogPlayLevel: PIE: World Init took: (0.002699s)
+[2020.01.16-15.52.29:332][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Sandpiling.Sandpiling to /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling (0.008023s)
+[2020.01.16-15.52.29:446][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-15.52.29:447][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-15.52.29:447][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-15.52.29:448][181]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-15.52.29:448][181]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: Channel Order:
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-15.52.29:460][181]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-15.52.29:531][181]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.29:533][181]LogInit: FAudioDevice initialized.
+[2020.01.16-15.52.29:572][181]LogLoad: Game class is 'NewBlueprint_C'
+[2020.01.16-15.52.29:575][181]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling up for play (max tick rate 60) at 2020.01.16-07.52.29
+[2020.01.16-15.52.29:575][181]LogWorld: Bringing up level for play took: 0.000894
+[2020.01.16-15.52.29:575][181]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.01.16-15.52.29:580][181]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling -0.721
+[2020.01.16-15.52.29:580][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.32:306][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.16-15.52.34:349][447]LogEditorViewport: Clicking Background
+[2020.01.16-15.52.35:518][508]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.35:518][508]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.35:518][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.35:519][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.35:519][508]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-15.52.35:519][508]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.35:520][508]LogWorld: UWorld::CleanupWorld for Sandpiling, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-15.52.35:520][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.35:538][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-15.52.35:538][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.35:545][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.35:644][508]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.35:658][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.35:668][508]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.01.16-15.52.35:701][509]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.01.16-15.52.36:209][536]LogEditorViewport: Clicking Background
+[2020.01.16-15.52.37:272][598]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.16-15.52.37:315][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.37:315][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-15.52.37:316][598]PIE: New page: PIE session: Sandpiling (Jan 15, 2020, 11:52:37 PM)
+[2020.01.16-15.52.37:317][598]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-15.52.37:321][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004490s)
+[2020.01.16-15.52.37:324][598]LogAIModule: Creating AISystem for world Sandpiling
+[2020.01.16-15.52.37:324][598]LogPlayLevel: PIE: World Init took: (0.002659s)
+[2020.01.16-15.52.37:324][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Sandpiling.Sandpiling to /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling (0.007546s)
+[2020.01.16-15.52.37:435][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-15.52.37:436][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-15.52.37:436][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-15.52.37:437][598]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-15.52.37:437][598]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: Channel Order:
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-15.52.37:448][598]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-15.52.37:517][598]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-15.52.37:520][598]LogInit: FAudioDevice initialized.
+[2020.01.16-15.52.37:529][598]LogLoad: Game class is 'NewBlueprint_C'
+[2020.01.16-15.52.37:532][598]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling up for play (max tick rate 60) at 2020.01.16-07.52.37
+[2020.01.16-15.52.37:532][598]LogWorld: Bringing up level for play took: 0.000856
+[2020.01.16-15.52.37:532][598]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.01.16-15.52.37:536][598]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling -0.764
+[2020.01.16-15.52.37:537][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.58:119][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.58:119][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.58:120][832]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.58:120][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.58:120][832]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-15.52.58:120][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.58:121][832]LogWorld: UWorld::CleanupWorld for Sandpiling, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-15.52.58:121][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.58:138][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-15.52.58:139][832]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-15.52.58:145][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-15.52.58:240][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-15.52.58:252][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-15.52.58:258][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.16-15.52.58:288][833]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.16-15.53.17:508][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Control.Control
+[2020.01.16-15.53.17:864][952]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.01.16-15.53.19:045][952]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.16-15.53.19:137][953]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.16-15.55.20:847][133]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling
+[2020.01.16-15.56.03:495][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.16-15.56.56:866][ 68]LogEditorViewport: Clicking Background
+[2020.01.16-15.57.07:378][679]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid.Grid
+[2020.01.16-15.57.27:218][707]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2020.01.16-15.57.52:791][ 27]LogSlate: Took 0.012354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.16-15.58.17:301][340]BlueprintLog: New page: Compile Grid
+[2020.01.16-15.58.17:651][340]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.01.16-15.59.50:551][581]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:552][581]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:576][582]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:576][582]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:577][582]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:600][583]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:601][583]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:601][583]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:624][584]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:625][584]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:625][584]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:648][585]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:650][585]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:650][585]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:672][586]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:673][586]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:673][586]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:696][587]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:696][587]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:696][587]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:719][588]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:720][588]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:720][588]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:743][589]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:744][589]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:744][589]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:765][590]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:766][590]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:767][590]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:788][591]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:789][591]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:789][591]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:811][592]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:812][592]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:812][592]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:834][593]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:835][593]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:835][593]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:857][594]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:857][594]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:858][594]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:880][595]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:881][595]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:882][595]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:903][596]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:903][596]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:905][596]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:927][597]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:927][597]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:927][597]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:952][598]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:953][598]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:954][598]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:976][599]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:977][599]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:977][599]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:998][600]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:999][600]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.50:999][600]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:021][601]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:022][601]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:022][601]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:045][602]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:046][602]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:046][602]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:069][603]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:070][603]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:070][603]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:095][604]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:095][604]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:095][604]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:122][605]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.51:122][605]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.Grid_C_0.wer has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2020.01.16-15.59.59:541][ 32]BlueprintLog: New page: Compile Grid
+[2020.01.16-15.59.59:937][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.01.16-16.00.03:816][241]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.16-16.00.03:869][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.03:869][241]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.16-16.00.03:871][241]LogPlayLevel: [PlayLevel] Compiling Control before play...
+[2020.01.16-16.00.04:231][241]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.01.16-16.00.04:231][241]LogPlayLevel: PlayLevel: Blueprint regeneration took 362 ms (1 blueprints)
+[2020.01.16-16.00.04:231][241]PIE: New page: PIE session: Sandpiling (Jan 16, 2020, 12:00:04 AM)
+[2020.01.16-16.00.04:231][241]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-16.00.04:235][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003090s)
+[2020.01.16-16.00.04:236][241]LogAIModule: Creating AISystem for world Sandpiling
+[2020.01.16-16.00.04:237][241]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2020.01.16-16.00.04:237][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Sandpiling.Sandpiling to /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling (0.005069s)
+[2020.01.16-16.00.04:313][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-16.00.04:314][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-16.00.04:314][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-16.00.04:315][241]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-16.00.04:315][241]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: Channel Order:
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-16.00.04:323][241]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-16.00.04:386][241]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-16.00.04:389][241]LogInit: FAudioDevice initialized.
+[2020.01.16-16.00.04:401][241]LogLoad: Game class is 'NewBlueprint_C'
+[2020.01.16-16.00.04:403][241]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling up for play (max tick rate 60) at 2020.01.16-08.00.04
+[2020.01.16-16.00.04:404][241]LogWorld: Bringing up level for play took: 0.000917
+[2020.01.16-16.00.04:404][241]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.01.16-16.00.04:409][241]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling 0.108
+[2020.01.16-16.00.04:409][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.05:899][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.05:899][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.05:899][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.05:900][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-16.00.05:900][329]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-16.00.05:900][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.05:901][329]LogWorld: UWorld::CleanupWorld for Sandpiling, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-16.00.05:901][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-16.00.05:921][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-16.00.05:921][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.05:932][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-16.00.06:049][329]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.06:062][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-16.00.06:070][329]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.01.16-16.00.06:099][330]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.16-16.00.06:525][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.16-16.00.07:356][396]Cmd: DELETE
+[2020.01.16-16.00.07:356][396]Cmd: ACTOR DELETE
+[2020.01.16-16.00.07:371][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.16-16.00.07:489][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.01.16-16.00.07:490][396]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2020.01.16-16.00.08:498][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.16-16.00.08:549][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.08:549][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.16-16.00.08:549][455]PIE: New page: PIE session: Sandpiling (Jan 16, 2020, 12:00:08 AM)
+[2020.01.16-16.00.08:550][455]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-16.00.08:554][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004361s)
+[2020.01.16-16.00.08:557][455]LogAIModule: Creating AISystem for world Sandpiling
+[2020.01.16-16.00.08:557][455]LogPlayLevel: PIE: World Init took: (0.002576s)
+[2020.01.16-16.00.08:557][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Sandpiling.Sandpiling to /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling (0.007283s)
+[2020.01.16-16.00.08:683][455]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.16-16.00.08:684][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.16-16.00.08:684][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.16-16.00.08:685][455]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.16-16.00.08:685][455]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Name: Speakers (2- Realtek(R) Audio)
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: Channel Order:
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-16.00.08:697][455]LogAudioMixer: Display: 1: FrontRight
+[2020.01.16-16.00.08:777][455]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.01.16-16.00.08:779][455]LogInit: FAudioDevice initialized.
+[2020.01.16-16.00.08:796][455]LogLoad: Game class is 'NewBlueprint_C'
+[2020.01.16-16.00.08:799][455]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling.Sandpiling up for play (max tick rate 60) at 2020.01.16-08.00.08
+[2020.01.16-16.00.08:799][455]LogWorld: Bringing up level for play took: 0.000897
+[2020.01.16-16.00.08:800][455]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.01.16-16.00.08:805][455]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling 0.505
+[2020.01.16-16.00.08:805][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.14:189][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.14:189][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.14:189][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.14:189][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-16.00.14:189][777]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_Sandpiling
+[2020.01.16-16.00.14:189][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.14:189][777]LogWorld: UWorld::CleanupWorld for Sandpiling, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-16.00.14:190][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-16.00.14:203][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.16-16.00.14:204][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling' with GeneratedClass '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Sandpiling.Sandpiling:PersistentLevel.Sandpiling'
+[2020.01.16-16.00.14:212][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.16-16.00.14:335][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.16-16.00.14:349][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-16.00.14:357][777]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2020.01.16-16.00.14:381][778]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.16-16.02.55:711][266]BlueprintLog: New page: Compile Grid
+[2020.01.16-16.02.56:040][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.01.16-16.03.37:468][228]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.01.16-16.03.37:862][228]LogSavePackage: Moving '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Sandpiling_Auto1B64C218A40728A36A4AAA0899B580FA8.tmp' to '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/PuzzleBP/Maps/Sandpiling_Auto1.umap'
+[2020.01.16-16.03.37:867][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/Sandpiling' took 0.492
+[2020.01.16-16.03.37:867][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.492
+[2020.01.16-16.03.37:867][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Grid] ([1] browsable assets)...
+[2020.01.16-16.03.37:906][228]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Grid.Grid]
+[2020.01.16-16.03.37:906][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid]
+[2020.01.16-16.03.37:906][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid" FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.01.16-16.03.38:004][228]LogSavePackage: Moving '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Grid_Auto1F26CF38C4442D7B6B92E60AD85648422.tmp' to '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto1.uasset'
+[2020.01.16-16.03.38:008][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Control] ([1] browsable assets)...
+[2020.01.16-16.03.38:008][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Control]
+[2020.01.16-16.03.38:008][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Control" FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Control_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.01.16-16.03.38:111][228]LogSavePackage: Moving '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Control_Auto12B41072D46FCCC590F73CFA25701292F.tmp' to '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Control_Auto1.uasset'
+[2020.01.16-16.03.38:113][228]LogFileHelpers: Auto-saving content packages took 0.246
+[2020.01.16-19.25.04:481][407]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.01.16-19.25.04:483][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/Sandpiling' took 0.086
+[2020.01.16-19.25.04:484][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Grid] ([1] browsable assets)...
+[2020.01.16-19.25.04:522][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Grid.Grid]
+[2020.01.16-19.25.04:522][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid]
+[2020.01.16-19.25.04:522][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid" FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.16-19.25.04:614][407]LogSavePackage: Moving '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Grid_Auto2E3B20D7B4C875ABEE141489E64570B9D.tmp' to '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto2.uasset'
+[2020.01.16-19.25.04:619][407]LogFileHelpers: Auto-saving content packages took 0.135
+[2020.01.16-19.35.05:078][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.01.16-19.35.05:080][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/Sandpiling' took 0.074
+[2020.01.16-19.35.05:080][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Grid] ([1] browsable assets)...
+[2020.01.16-19.35.05:112][ 17]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Grid.Grid]
+[2020.01.16-19.35.05:112][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid]
+[2020.01.16-19.35.05:113][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid" FILE="../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.01.16-19.35.05:178][ 17]LogSavePackage: Moving '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Grid_Auto35198D973476A7F8183624C967DB1FC4F.tmp' to '../../../../../../Users/Abbass/Documents/Unreal Projects/TestingOutPuzzle/Saved/Autosaves/Game/Grid_Auto3.uasset'
+[2020.01.16-19.35.05:181][ 17]LogFileHelpers: Auto-saving content packages took 0.102
+[2020.01.16-19.50.15:387][523]LogEditorViewport: Clicking Background
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDA827EB1-4863-BC54-B5DF-B5B4E8ACCB96%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=777d199c42018a81f0023b8e505887e7%7Cd2d4a04f58574c308c1c905c578ed553%7C165da0dc-e51a-4853-a6ee-7d2cd4dcbe7a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23ddc1e7f70 [can pipeline])
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.13.19) port 443 (#21))
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.16-19.56.35:054][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.16-19.56.35:055][428]LogHttp: Warning: 0000023DFB3591C0: libcurl info message cache 7 (Closing connection 21)
+[2020.01.16-19.56.35:055][428]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDA827EB1-4863-BC54-B5DF-B5B4E8ACCB96%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=777d199c42018a81f0023b8e505887e7%7Cd2d4a04f58574c308c1c905c578ed553%7C165da0dc-e51a-4853-a6ee-7d2cd4dcbe7a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.16-19.56.36:061][430]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f2d2cd2d-7105-44a2-9226-5a0792385024}.
+[2020.01.16-19.56.36:061][430]LogTemp: Resetting audio stream to device id 
+[2020.01.16-19.56.36:154][430]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.16-19.56.36:154][430]LogAudioMixer: Display: Name: Headset Earphone (2- Corsair VOID Wireless Gaming Dongle)
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: Is Default: Yes
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: Channel Order:
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.16-19.56.36:155][430]LogAudioMixer: Display: 1: FrontRight
